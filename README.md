@@ -51,3 +51,4 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Diffusion on language model encodings for protein sequence generation [PDF](https://openreview.net/attachment?id=LoXJlAW3gU&name=pdf)
 - VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control [PDF](https://openreview.net/attachment?id=0n4bS0R5MM&name=pdf)
 - VADER: Video Diffusion Alignment via Reward Gradients [PDF](https://openreview.net/attachment?id=B9dYUFfzl3&name=pdf)
+- 
