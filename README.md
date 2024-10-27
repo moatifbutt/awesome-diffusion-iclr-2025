@@ -7,6 +7,7 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
  - [Super-Resolution](#super-resolution)
  - [Concept Eraser](#concept-eraser)
  - [Adversarial Diffusion](#adversarial-diffusion)
+ - [Video Generation](#video-generation)
 
 ### 3D Diffusion
 - Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data [[PDF](https://openreview.net/attachment?id=U862lgKUgj&name=pdf)]
@@ -47,25 +48,35 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation [[PDF](https://openreview.net/attachment?id=P4DbTSDQFu&name=pdf)]
 - Co3Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion [[PDF](https://openreview.net/attachment?id=VaowElpVzd&name=pdf)]
 - LISA: UNLEASHING 2D DIFFUSION FOR 3D GENERATION VIA LIGHTWEIGHT IMAGE SPLATS ADAPTATION [[PDF](https://openreview.net/attachment?id=PLgHiJOjcH&name=pdf)]
+- Diffusion2: Dynamic 3D Content Generation via Score Composition of Video and Multi-view Diffusion Models [[PDF](https://openreview.net/attachment?id=fectsEG2GU&name=pdf)]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Video Generation
+- Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos [[PDF](https://openreview.net/attachment?id=HnpDHiItd2&name=pdf)]
+- Self-Conditioned Diffusion Model for Consistent Human Image and Video Synthesis [[PDF](https://openreview.net/attachment?id=1fC4ytCAgb&name=pdf)]
+- ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning [[PDF](https://openreview.net/attachment?id=Hhx3swAQAZ&name=pdf)]
+- Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention [[PDF](https://openreview.net/attachment?id=sNntRFmn72&name=pdf)]
+- VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control [[PDF](https://openreview.net/attachment?id=0n4bS0R5MM&name=pdf)]
+- Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion [[PDF](https://openreview.net/attachment?id=k3JgQXtpJq&name=pdf)]
+- ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [[PDF](https://openreview.net/attachment?id=8pusxkLEQO&name=pdf)]
+- FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality [[PDF](https://openreview.net/attachment?id=W49UjcpGxx&name=pdf)]
+- FreeTraj: Tuning-Free Trajectory Control via Noise Guided Video Diffusion [[PDF](https://openreview.net/attachment?id=CU7QfWJ6nC&name=pdf)]
+- MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling [[PDF](https://openreview.net/attachment?id=IIDFStLGQx&name=pdf)]
+- Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models [[PDF](https://openreview.net/attachment?id=YA1Ur2eGFl&name=pdf)]
+- VideoPanda: Video Panoramic Diffusion With Multi-view Attention [[PDF](https://openreview.net/attachment?id=CMj18BQQDK&name=pdf)]
+- Promptus: Representing Real-World Video as Stable Diffusion Prompts for Video Streaming [[PDF](https://openreview.net/attachment?id=BnYJdouhkp&name=pdf)]
+- MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[PDF](https://openreview.net/attachment?id=bW9fGYo44s&name=pdf)]
+- Boosting Camera Motion Control for Video Diffusion Transformers [[PDF](https://openreview.net/attachment?id=rDRCIvTppL&name=pdf)]
+- UniVAE: A Unified Frame-Enriched Video VAE for Latent Video Diffusion Models [[PDF](https://openreview.net/attachment?id=hcvmYgFb2A&name=pdf)]
+- Adaptive Caching for Faster Video Generation with Diffusion Transformers [[PDF](https://openreview.net/attachment?id=DyyLUUVXJ5&name=pdf)]
+- TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation [[PDF](https://openreview.net/attachment?id=LbEWwJOufy&name=pdf)]
+- HERO: Harnessing Temporal Modeling for Diffusion-Based Video Outpainting [[PDF](https://openreview.net/attachment?id=I0HfqpSH8f&name=pdf)]
+- ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler [[PDF](https://openreview.net/attachment?id=nNYA7tcJSE&name=pdf)]
+- Training-free Long Video Generation with Chain of Diffusion Model Experts [[PDF](https://openreview.net/attachment?id=3hc2ESNU6n&name=pdf)]
+- VideoDiT: Bridging Image Diffusion Transformers for Streamlined Video Generation [[PDF](https://openreview.net/attachment?id=lvgsPjRtLM&name=pdf)]
+- Video Diffusion Models Learn the Structure of the Dynamic World [[PDF](https://openreview.net/attachment?id=SIZhZrU41O&name=pdf)]
+- VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide [[PDF](https://openreview.net/attachment?id=VmR3QvfLxt&name=pdf)]
+- Camera Pose Estimation Emerging In Video Diffusion Transformer [[PDF](https://openreview.net/attachment?id=lgf2LW7fOJ&name=pdf)]
+- Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models [[PDF](https://openreview.net/attachment?id=0Lpz2o6NDE&name=pdf)]
 
 ### Personalized T2I
 - MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=GwSL33Qx42&name=pdf)]
