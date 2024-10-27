@@ -8,6 +8,7 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
  - [Concept Eraser](#concept-eraser)
  - [Adversarial Diffusion](#adversarial-diffusion)
  - [Video Generation](#video-generation)
+ - [Distilled Learning](#distilled-learning)
 
 ### 3D Diffusion
 - Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data [[PDF](https://openreview.net/attachment?id=U862lgKUgj&name=pdf)]
@@ -102,7 +103,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - EraseDiff: Erasing Data Influence in Diffusion Models [[PDF](https://openreview.net/attachment?id=4CR5Uc9EYf&name=pdf)]
 - Erasing Combination from Text-to-Image Diffusion Model [[PDF](https://openreview.net/attachment?id=OBjF5I4PWg&name=pdf)]
 
-
 ### Adversarial Diffusion
 - Diffusion Guided Adversarial State Perturbations in Reinforcement Learning [[PDF](https://openreview.net/attachment?id=DoB8DmrsSS&name=pdf)]
 - AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models [[PDF](https://openreview.net/attachment?id=5UQ0YmC2js&name=pdf)]
@@ -118,6 +118,24 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Efficient Adversarial Detection and Purification with Diffusion Models [[PDF](https://openreview.net/attachment?id=AHqXvTK4KG&name=pdf)]
 - Adversarial-Guided Diffusion for Robust and High-Fidelity Multimodal LLM Attacks [[PDF](https://openreview.net/attachment?id=UXNprzZmvZ&name=pdf)]
 
+
+### Distilled Learning
+- CONCORD: -informed Diffusion for Dataset Distillation [[PDF](https://openreview.net/attachment?id=CaexTRYaN6&name=pdf)]
+- Linear Multistep Solver Distillation for Fast Sampling of Diffusion Models [[PDF](https://openreview.net/attachment?id=vkOFOUDLTn&name=pdf)]
+- Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution [[PDF](https://openreview.net/attachment?id=2ogxyVlHmi&name=pdf)]
+- Skip the Steps: Data-Free Consistency Distillation for Diffusion-based Samplers [[PDF](https://openreview.net/attachment?id=uVm0zSNKkP&name=pdf)]
+- Secure Diffusion Model Unlocked: Efficient Inference via Score Distillation [[PDF](https://openreview.net/attachment?id=fkNsgI1nye&name=pdf)]
+- Influence-Guided Diffusion for Dataset Distillation [[PDF](https://openreview.net/attachment?id=0whx8MhysK&name=pdf)]
+- Amortized Posterior Sampling with Diffusion Prior Distillation [[PDF](https://openreview.net/attachment?id=85VWxAwsaF&name=pdf)]
+- InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation [[PDF](https://openreview.net/attachment?id=ZkFMe3OPfw&name=pdf)]
+- Fast Multi-Mode Adaptive Generative Distillation for Continually Learning Diffusion Models [[PDF](https://openreview.net/attachment?id=PvvQlhBbgu&name=pdf)]
+- MGD3: Mode-Guided Dataset Distillation using Diffusion Models [[PDF](https://openreview.net/attachment?id=vKJ8YH0iNp&name=pdf)]
+- One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation [[PDF](https://openreview.net/attachment?id=Z85EoYQhCs&name=pdf)]
+- Distribution Backtracking Builds A Faster Convergence Trajectory for Diffusion Distillation [[PDF](https://openreview.net/attachment?id=2ySt3cdGfJ&name=pdf)]
+- DDIL: Improved Diffusion Distillation with Imitation Learning [[PDF](https://openreview.net/attachment?id=hGKuATIGhr&name=pdf)]
+- Multi-Student Diffusion Distillation for Better One-Step Generators [[PDF](https://openreview.net/attachment?id=9SvRqu21m7&name=pdf)]
+
+-------------------------------
 
 - Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models [[PDF](https://openreview.net/attachment?id=pD6TiCpyDR&name=pdf)]
 - AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models [[PDF](https://openreview.net/attachment?id=XwERWxaqIr&name=pdf)]
