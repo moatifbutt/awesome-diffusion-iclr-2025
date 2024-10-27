@@ -15,6 +15,57 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Wavelet Latent Diffusion (WaLa): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings [[PDF](https://openreview.net/attachment?id=D48jvLN45W&name=pdf)]
 - 3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation [[PDF](https://openreview.net/attachment?id=C0HDYvGwol&name=pdf)]
 - Generalizable Monocular 3D Human Rendering via Direct Gaussian Attribute Diffusion [[PDF](https://openreview.net/attachment?id=rWIrdAo2xC&name=pdf)]
+- HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model [[PDF](https://openreview.net/attachment?id=WKKD1Faobu&name=pdf)]
+- ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors [[PDF](https://openreview.net/attachment?id=SoUwcVplq4&name=pdf)]
+- HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models [[PDF](https://openreview.net/attachment?id=ZYwLfi50GI&name=pdf)]
+- NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[PDF](https://openreview.net/attachment?id=p66a00KLWN&name=pdf)]
+- SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation [[PDF](https://openreview.net/attachment?id=XSVq2z1CU6&name=pdf)]
+- PSHead: 3D Head Reconstruction from a Single Image with Diffusion Prior and Self-Enhancement [[PDF](https://openreview.net/attachment?id=0KFwhDqTQ6&name=pdf)]
+- MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion [[PDF](https://openreview.net/attachment?id=PoL2joPZQ4&name=pdf)]
+- Build your own cell: Diffusion Models for Multichannel 3D Microscopy Image Generation [[PDF](https://openreview.net/attachment?id=FDsWd0NOB5&name=pdf)]
+- Atlas Gaussians Diffusion for 3D Generation [[PDF](https://openreview.net/attachment?id=H2Gxil855b&name=pdf)]
+- Diffusion2: Dynamic 3D Content Generation via Score Composition of Video and Multi-view Diffusion Models [[PDF](https://openreview.net/attachment?id=fectsEG2GU&name=pdf)]
+- DSPart: A Large-scale Diffusion-generated Synthetic Dataset with Annotations from 3D Parts [[PDF](https://openreview.net/attachment?id=K3jv45pptT&name=pdf)]
+- VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control [[PDF](https://openreview.net/attachment?id=0n4bS0R5MM&name=pdf)]
+- Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion [[PDF](https://openreview.net/attachment?id=k3JgQXtpJq&name=pdf)]
+- Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion [[PDF](https://openreview.net/attachment?id=bjkQTInGes&name=pdf)]
+- Boost 3D Reconstruction using Diffusion-based Intrinsic Estimation [[PDF](https://openreview.net/attachment?id=XydIBZ2xlr&name=pdf)]
+- 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion [[PDF](https://openreview.net/attachment?id=CGbfokGFP7&name=pdf)]
+- 3D-free meets 3D priors: Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance [[PDF](https://openreview.net/attachment?id=VLuJL8cnGk&name=pdf)]
+- Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation [[PDF](https://openreview.net/attachment?id=Glm7Kj47nN&name=pdf)]
+- ZERO-1-to-G: Taming Pretrained 2D Diffusion Models for Direct 3D Generation [[PDF](https://openreview.net/attachment?id=nmc9ujrZ5R&name=pdf)]
+- GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation [[PDF](https://openreview.net/attachment?id=qPzYF2EpXb&name=pdf)]
+- VFDiff: SE(3)-Equivariant Vector Field Guided Diffusion Model for Target-Aware Molecule Generation in 3D [[PDF](https://openreview.net/attachment?id=5YLsnsjgeC&name=pdf)]
+- LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion [[PDF](https://openreview.net/attachment?id=72OSO38a2z&name=pdf)]
+- X-Diffusion: Generating Detailed 3D MRI Volumes From a Single Image Using Cross-Sectional Diffusion Models [[PDF](https://openreview.net/attachment?id=urf8a5G59f&name=pdf)]
+- A3D: Does Diffusion Dream about 3D Alignment? [[PDF](https://openreview.net/attachment?id=QQCIfkhGIq&name=pdf)]
+- Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation [[PDF](https://openreview.net/attachment?id=gg6dPtdC1C&name=pdf)]
+- GeoGS3D: Single-view 3D Reconstruction via Geometric-aware Diffusion Model and Gaussian Splatting [[PDF](https://openreview.net/attachment?id=I86z54CL2y&name=pdf)]
+- EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing [[PDF](https://openreview.net/attachment?id=Y2Dh8rWwlb&name=pdf)]
+- Diffusion priors for Bayesian 3D reconstruction from incomplete measurements [[PDF](https://openreview.net/attachment?id=JZgqoOu4Ml&name=pdf)]
+- DC3DO: Diffusion Classifier for 3D Objects [[PDF](https://openreview.net/attachment?id=MqvQUP7ZuZ&name=pdf)]
+- GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation [[PDF](https://openreview.net/attachment?id=P4DbTSDQFu&name=pdf)]
+- Co3Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion [[PDF](https://openreview.net/attachment?id=VaowElpVzd&name=pdf)]
+- LISA: UNLEASHING 2D DIFFUSION FOR 3D GENERATION VIA LIGHTWEIGHT IMAGE SPLATS ADAPTATION [[PDF](https://openreview.net/attachment?id=PLgHiJOjcH&name=pdf)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Personalized T2I
 - MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=GwSL33Qx42&name=pdf)]
