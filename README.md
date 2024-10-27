@@ -3,8 +3,11 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 
 ## Content
  - [Personalized T2I](#personalized-t2i)
+ - [Super-Resolution](#super-resolution)
 
 ### Personalized T2I
+
+### Super-Resolution
 - Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models [[PDF](https://openreview.net/attachment?id=pD6TiCpyDR&name=pdf)]
 - AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models [[PDF](https://openreview.net/attachment?id=XwERWxaqIr&name=pdf)]
 - Diffusion-PINN Sampler [[PDF](https://openreview.net/attachment?id=vxBvr5ZpIu&name=pdf)]
