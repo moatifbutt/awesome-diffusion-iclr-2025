@@ -2,9 +2,19 @@
 List of diffusion related active submissions on OpenReview for ICLR 2025.
 
 ## Content
+ - [3D Diffusion](#3d-diffusion)
  - [Personalized T2I](#personalized-t2i)
  - [Super-Resolution](#super-resolution)
  - [Concept Eraser](#concept-eraser)
+ - [Adversarial Diffusion](#adversarial-diffusion)
+
+### 3D Diffusion
+- Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data [[PDF](https://openreview.net/attachment?id=U862lgKUgj&name=pdf)]
+- InfiniteMesh: View Interpolation using Multi-view Diffusion for 3D Mesh Reconstruction [[PDF](https://openreview.net/attachment?id=pw0fKwi0Pj&name=pdf)]
+- Consistency Diffusion Models for Singel-Image 3D Reconstruction with priors [[PDF](https://openreview.net/attachment?id=385gQZuuuR&name=pdf)]
+- Wavelet Latent Diffusion (WaLa): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings [[PDF](https://openreview.net/attachment?id=D48jvLN45W&name=pdf)]
+- 3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation [[PDF](https://openreview.net/attachment?id=C0HDYvGwol&name=pdf)]
+- Generalizable Monocular 3D Human Rendering via Direct Gaussian Attribute Diffusion [[PDF](https://openreview.net/attachment?id=rWIrdAo2xC&name=pdf)]
 
 ### Personalized T2I
 - MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=GwSL33Qx42&name=pdf)]
@@ -26,6 +36,26 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 ### Concept Eraser
 - Optimal Targets for Concept Erasure in Diffusion Models and Where To Find Them [[PDF](https://openreview.net/attachment?id=tZdqL5FH7w&name=pdf)]
 - Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate [[PDF](https://openreview.net/attachment?id=ZRDhBwKs7l&name=pdf)]
+- Prompt-Agnostic Erasure for Diffusion Models Using Task Vectors [[PDF](https://openreview.net/attachment?id=2wDXNF0Gv4&name=pdf)]
+- EraseDiff: Erasing Data Influence in Diffusion Models [[PDF](https://openreview.net/attachment?id=4CR5Uc9EYf&name=pdf)]
+- Erasing Combination from Text-to-Image Diffusion Model [[PDF](https://openreview.net/attachment?id=OBjF5I4PWg&name=pdf)]
+
+
+### Adversarial Diffusion
+- Diffusion Guided Adversarial State Perturbations in Reinforcement Learning [[PDF](https://openreview.net/attachment?id=DoB8DmrsSS&name=pdf)]
+- AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models [[PDF](https://openreview.net/attachment?id=5UQ0YmC2js&name=pdf)]
+- Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting [[PDF](https://openreview.net/attachment?id=LikKyNlzgP&name=pdf)]
+- How and how well do diffusion models improve adversarial robustness? [[PDF](https://openreview.net/attachment?id=EVK0sQHVCd&name=pdf)]
+- Improved Diffusion-based Generative Model with Better Adversarial Robustness [[PDF](https://openreview.net/attachment?id=1DVgysiIt7&name=pdf)]
+- Breaking Free: Hacking Diffusion Models for Generating Adversarial Examples and Bypassing Safety Guardrails [[PDF](https://openreview.net/attachment?id=6qeCyvlJUJ&name=pdf)]
+- AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation [[PDF](https://openreview.net/attachment?id=BpKbKeY0La&name=pdf)]
+- Adversarial Guided Diffusion Models for Adversarial Purification [[PDF](https://openreview.net/attachment?id=PwLsQ1AFbP&name=pdf)]
+- Adversarial Diffusion Bridge Model for Reliable Adversarial Purification [[PDF](https://openreview.net/attachment?id=g0rnZeBguq&name=pdf)]
+- Sample-specific Noise Injection for Diffusion-based Adversarial Purification [[PDF](https://openreview.net/attachment?id=KzokzKV4JK&name=pdf)]
+- Rethinking Adversarial Attacks as Protection Against Diffusion-based Mimicry [[PDF](https://openreview.net/attachment?id=tiJzOop4u6&name=pdf)]
+- Efficient Adversarial Detection and Purification with Diffusion Models [[PDF](https://openreview.net/attachment?id=AHqXvTK4KG&name=pdf)]
+- Adversarial-Guided Diffusion for Robust and High-Fidelity Multimodal LLM Attacks [[PDF](https://openreview.net/attachment?id=UXNprzZmvZ&name=pdf)]
+
 
 - Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models [[PDF](https://openreview.net/attachment?id=pD6TiCpyDR&name=pdf)]
 - AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models [[PDF](https://openreview.net/attachment?id=XwERWxaqIr&name=pdf)]
@@ -40,7 +70,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Improved Sampling Algorithms for Lévy-Itô Diffusion Models [[PDF](https://openreview.net/attachment?id=XxCgeWSTNp&name=pdf)]
 - Improving Diffusion-based Data Augmentation with Inversion Circle Interpolation [[PDF](https://openreview.net/attachment?id=dxoryzjsCW&name=pdf)]
 - Dreamguider: Improved Training free Diffusion-based Conditional Generation [[PDF](https://openreview.net/attachment?id=Hpu3KIX8Am&name=pdf)]
-- Diffusion Guided Adversarial State Perturbations in Reinforcement Learning [[PDF](https://openreview.net/attachment?id=DoB8DmrsSS&name=pdf)]
 - TabDiff: a Multi-Modal Diffusion Model for Tabular Data Generation [[PDF](https://openreview.net/attachment?id=swvURjrt8z&name=pdf)]
 - Fast constrained sampling in pre-trained diffusion models [[PDF](https://openreview.net/attachment?id=c3i8uRSE9h&name=pdf)]
 - Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=t9l63huPRt&name=pdf)]
@@ -53,11 +82,11 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Energy-Based ual Diffusion Model [[PDF](https://openreview.net/attachment?id=BV84FICIAM&name=pdf)]
 - Qihoo-T2X: An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Any-Task [[PDF](https://openreview.net/attachment?id=lTrrnNdkOX&name=pdf)]
 - Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation [[PDF](https://openreview.net/attachment?id=tQyh0gnfqW&name=pdf)]
-- Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data [[PDF](https://openreview.net/attachment?id=U862lgKUgj&name=pdf)]
+
 - DiffPath: Generating Road Network based Path with Latent Diffusion Model [[PDF](https://openreview.net/attachment?id=1o3fKLQPRA&name=pdf)]
 - PSHuman: Photorealistic Single-view Human Reconstruction using Cross-Scale Diffusion [[PDF](https://openreview.net/attachment?id=8EaDOGMPUL&name=pdf)]
 - Training-Free Diffusion Model Alignment with Sampling Demons [[PDF](https://openreview.net/attachment?id=tfemquulED&name=pdf)]
-- InfiniteMesh: View Interpolation using Multi-view Diffusion for 3D Mesh Reconstruction [[PDF](https://openreview.net/attachment?id=pw0fKwi0Pj&name=pdf)]
+
 - Diffusion Modulation via Environment Mechanism Modeling for Planning [[PDF](https://openreview.net/attachment?id=x1SfON9HvT&name=pdf)]
 - Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models [[PDF](https://openreview.net/attachment?id=ILSZZNlbqw&name=pdf)]
 - Instant Policy: In-Context Imitation Learning via Graph Diffusion [[PDF](https://openreview.net/attachment?id=je3GZissZc&name=pdf)]
@@ -93,7 +122,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - LDMol: Text-to-Molecule Diffusion Model with Structurally Informative Latent Space [[PDF](https://openreview.net/attachment?id=GOgB6QoXwx&name=pdf)]
 - DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments [[PDF](https://openreview.net/attachment?id=kCDQwiwlvH&name=pdf)]
 - Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=8jvVNPHtVJ&name=pdf)]
-- Consistency Diffusion Models for Singel-Image 3D Reconstruction with priors [[PDF](https://openreview.net/attachment?id=385gQZuuuR&name=pdf)]
 - Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion [[PDF](https://openreview.net/attachment?id=xaYlO03tIk&name=pdf)]
 - Diff-Prompt: Diffusion-driven Prompt Generator with Mask Supervision [[PDF](https://openreview.net/attachment?id=LfghnrSJNg&name=pdf)]
 - Multidimensional Trajectory Optimization for Flow and Diffusion [[PDF](https://openreview.net/attachment?id=oHbmiaeyUL&name=pdf)]
@@ -107,7 +135,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Provable Causal State Representation under Asynchronous Diffusion Model for POMDPs [[PDF](https://openreview.net/attachment?id=FNiqaC382D&name=pdf)]
 - SigDiffusions: Score-Based Diffusion Models for Time Series via Log-Signature Embeddings [[PDF](https://openreview.net/attachment?id=Y8KK9kjgIK&name=pdf)]
 - Self-Supervised Diffusion Processes for Electron-Aware Molecular Representation Learning [[PDF](https://openreview.net/attachment?id=UQ0RqfhgCk&name=pdf)]
-- Wavelet Latent Diffusion (WaLa): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings [[PDF](https://openreview.net/attachment?id=D48jvLN45W&name=pdf)]
 - ProFI-Painter: Text-Guided Prompt-Faithful Image Inpainting with Diffusion Models [[PDF](https://openreview.net/attachment?id=6lB5qtdYAg&name=pdf)]
 - What Makes a Good Diffusion Planner for Decision Making? [[PDF](https://openreview.net/attachment?id=7BQkXXM8Fy&name=pdf)]
 - ContraFusion: Contrastively Improving Compositional Understanding in Diffusion Models via Fine-Grained Negative Images [[PDF](https://openreview.net/attachment?id=S85PP4xjFD&name=pdf)]
@@ -130,9 +157,7 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking [[PDF](https://openreview.net/attachment?id=uzz3qAYy0D&name=pdf)]
 - Diffusion State-Guided Projected Gradient for Inverse Problems [[PDF](https://openreview.net/attachment?id=kRBQwlkFSP&name=pdf)]
 - Synthesizing Realistic fMRI: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient fMRI Acquisition [[PDF](https://openreview.net/attachment?id=zZ6TT254Np&name=pdf)]
-- 3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation [[PDF](https://openreview.net/attachment?id=C0HDYvGwol&name=pdf)]
 - Generation and Comprehension Hand-in-Hand: Vision-guided Expression Diffusion for Boosting Referring Expression Generation and Comprehension [[PDF](https://openreview.net/attachment?id=1qbZekXGrp&name=pdf)]
-- AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models [[PDF](https://openreview.net/attachment?id=5UQ0YmC2js&name=pdf)]
 - Prompt Diffusion Robustifies Any-Modality Prompt Learning [[PDF](https://openreview.net/attachment?id=2x1U8a3s7G&name=pdf)]
 - Discovery and Expansion of New Domains within Diffusion Models [[PDF](https://openreview.net/attachment?id=KTrnOhAN4k&name=pdf)]
 - Faster Diffusion Sampling with Randomized Midpoints: Sequential and Parallel [[PDF](https://openreview.net/attachment?id=MT3aOfXIbY&name=pdf)]
@@ -150,10 +175,9 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach [[PDF](https://openreview.net/attachment?id=XYuWS3nrw3&name=pdf)]
 - Hierarchical Classification via Diffusion on Manifolds [[PDF](https://openreview.net/attachment?id=zJbwrk1DHc&name=pdf)]
 - From Patches to Graphs: Towards Image Diffusion Models with GNNs [[PDF](https://openreview.net/attachment?id=h4L5eUvXmP&name=pdf)]
-- Generalizable Monocular 3D Human Rendering via Direct Gaussian Attribute Diffusion [[PDF](https://openreview.net/attachment?id=rWIrdAo2xC&name=pdf)]
 - ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation [[PDF](https://openreview.net/attachment?id=E1N1oxd63b&name=pdf)]
 - AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation [[PDF](https://openreview.net/attachment?id=OIqOpdyhTd&name=pdf)]
-- Contrastive guidance and feedback: A Suitable way to improve 3D Consistency of Multi-view Diffusion Model [[PDF](https://openreview.net/attachment?id=ZBH4fqQwJQ&name=pdf)]
+
 - AudioMorphix: Training-free audio editing with diffusion probabilistic models [[PDF](https://openreview.net/attachment?id=a8dQutiF9E&name=pdf)]
 - Heavy-Tailed Diffusion Models [[PDF](https://openreview.net/attachment?id=tozlOEN4qp&name=pdf)]
 - Deconstructing Denoising Diffusion Models for Self-Supervised Learning [[PDF](https://openreview.net/attachment?id=9oMB6wnFYM&name=pdf)]
@@ -161,7 +185,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models [[PDF](https://openreview.net/attachment?id=jt1h2dnmng&name=pdf)]
 - The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise [[PDF](https://openreview.net/attachment?id=GpdO9r73xT&name=pdf)]
 - TF-score: Time-series Forecasting using score-based diffusion model [[PDF](https://openreview.net/attachment?id=RDLvnUJ5JZ&name=pdf)]
-- Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting [[PDF](https://openreview.net/attachment?id=LikKyNlzgP&name=pdf)]
 - Continuous Speech Synthesis using per-token Latent Diffusion [[PDF](https://openreview.net/attachment?id=wkmCbrrDQN&name=pdf)]
 - Efficient Multi-agent Offline Coordination via Diffusion-based Trajectory Stitching [[PDF](https://openreview.net/attachment?id=EpnZEzYDUT&name=pdf)]
 - Understanding and Mitigating Memorization in Diffusion Models for Tabular Data [[PDF](https://openreview.net/attachment?id=wT1aFmsXOc&name=pdf)]
@@ -238,7 +261,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Adding Conditional Control to Diffusion Models with Reinforcement Learning [[PDF](https://openreview.net/attachment?id=svp1EBA6hA&name=pdf)]
 - FairGen: controlling fair generations in diffusion models via adaptive latent guidance [[PDF](https://openreview.net/attachment?id=PgC5UqKDye&name=pdf)]
 - NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation [[PDF](https://openreview.net/attachment?id=p66a00KLWN&name=pdf)]
-- How and how well do diffusion models improve adversarial robustness? [[PDF](https://openreview.net/attachment?id=EVK0sQHVCd&name=pdf)]
 - Diff-BBO:  Diffusion-Based Inverse Modeling for Black-Box Optimization [[PDF](https://openreview.net/attachment?id=Vlo3Gad3YP&name=pdf)]
 - DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=oQoQ4u6MQC&name=pdf)]
 - Causally Motivated Diffusion Sampling Frameworks for Harnessing Contextual Bias [[PDF](https://openreview.net/attachment?id=xLPakPOKDX&name=pdf)]
@@ -270,7 +292,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching [[PDF](https://openreview.net/attachment?id=2mqb8bPHeb&name=pdf)]
 - Preference Diffusion for Recommendation [[PDF](https://openreview.net/attachment?id=6GATHdOi1x&name=pdf)]
 - Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification [[PDF](https://openreview.net/attachment?id=fMUggopCYI&name=pdf)]
-- Improved Diffusion-based Generative Model with Better Adversarial Robustness [[PDF](https://openreview.net/attachment?id=1DVgysiIt7&name=pdf)]
 - Mitigating Shortcut Learning with Diffusion Counterfactuals and Diverse Ensembles [[PDF](https://openreview.net/attachment?id=SvydqVoHrp&name=pdf)]
 - CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion [[PDF](https://openreview.net/attachment?id=LIBLIlk5M9&name=pdf)]
 - Singular Subspace Perturbation Bounds via Rectangular Random Matrix Diffusions [[PDF](https://openreview.net/attachment?id=G8U2nGP3Vi&name=pdf)]
@@ -292,7 +313,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs [[PDF](https://openreview.net/attachment?id=T7bmHkwzS6&name=pdf)]
 - Distilled Diffusion Language Models [[PDF](https://openreview.net/attachment?id=xfw92pDy2u&name=pdf)]
 - AutoLoRA: AutoGuidance Meets Low-Rank Adaptation for Diffusion Models [[PDF](https://openreview.net/attachment?id=afgqQYxTyR&name=pdf)]
-- Breaking Free: Hacking Diffusion Models for Generating Adversarial Examples and Bypassing Safety Guardrails [[PDF](https://openreview.net/attachment?id=6qeCyvlJUJ&name=pdf)]
 - Scaling Laws for Diffusion Transformers [[PDF](https://openreview.net/attachment?id=iIGNrDwDuP&name=pdf)]
 - Regularization by Texts for Latent Diffusion Inverse Solvers [[PDF](https://openreview.net/attachment?id=TtUh0TOlGX&name=pdf)]
 - Latent Abstractions in Generative Diffusion Models [[PDF](https://openreview.net/attachment?id=dUCMO9lwSv&name=pdf)]
@@ -328,7 +348,7 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Diffusion Models are Evolutionary Algorithms [[PDF](https://openreview.net/attachment?id=xVefsBbG2O&name=pdf)]
 - Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction [[PDF](https://openreview.net/attachment?id=stK7iOPH9Q&name=pdf)]
 - Generating Synthetic Genotypes using Diffusion Models [[PDF](https://openreview.net/attachment?id=rN7Ewo2lV4&name=pdf)]
-- AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation [[PDF](https://openreview.net/attachment?id=BpKbKeY0La&name=pdf)]
+
 - Transition Path Sampling with Improved Off-Policy Training of Diffusion Path Samplers [[PDF](https://openreview.net/attachment?id=WQV9kB1qSU&name=pdf)]
 - Scalable Diffusion for Bio-topological Representation Learning on Brain Graphs [[PDF](https://openreview.net/attachment?id=i2ue8J6aqI&name=pdf)]
 - Inference-Time Alignment of Diffusion Models with Direct Noise Optimization [[PDF](https://openreview.net/attachment?id=x1uv2gdjKV&name=pdf)]
@@ -348,7 +368,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models [[PDF](https://openreview.net/attachment?id=2QXC4NX8oC&name=pdf)]
 - Protecting Minorities in Diffusion Models via Capacity Allocation [[PDF](https://openreview.net/attachment?id=kEZb7WmCoG&name=pdf)]
 - Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos [[PDF](https://openreview.net/attachment?id=HnpDHiItd2&name=pdf)]
-- Adversarial Guided Diffusion Models for Adversarial Purification [[PDF](https://openreview.net/attachment?id=PwLsQ1AFbP&name=pdf)]
 - Self-Conditioned Diffusion Model for Consistent Human Image and Video Synthesis [[PDF](https://openreview.net/attachment?id=1fC4ytCAgb&name=pdf)]
 - Physics-Informed Diffusion Models [[PDF](https://openreview.net/attachment?id=tpYeermigp&name=pdf)]
 - Leveraging Diffusion Transformers for Stock Factor Augmentation in Financial Markets [[PDF](https://openreview.net/attachment?id=bRMfqThoVC&name=pdf)]
@@ -365,7 +384,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Diffusion on language model encodings for protein sequence generation [[PDF](https://openreview.net/attachment?id=LoXJlAW3gU&name=pdf)]
 - Influence-Guided Diffusion for Dataset Distillation [[PDF](https://openreview.net/attachment?id=0whx8MhysK&name=pdf)]
 - Sparse Repellency for Shielded Generation in Text-to-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=EWQaqDgXgr&name=pdf)]
-- Adversarial Diffusion Bridge Model for Reliable Adversarial Purification [[PDF](https://openreview.net/attachment?id=g0rnZeBguq&name=pdf)]
 - SteerDiff: Steering towards Safe Text-To-Image Diffusion Models [[PDF](https://openreview.net/attachment?id=Jlhq0zb76Q&name=pdf)]
 - TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model [[PDF](https://openreview.net/attachment?id=FvBTy5Dz9C&name=pdf)]
 - Hiding Images in Diffusion Models by Editing Learned Score Functions [[PDF](https://openreview.net/attachment?id=kRJNV8RCE3&name=pdf)]
@@ -464,7 +482,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality [[PDF](https://openreview.net/attachment?id=W49UjcpGxx&name=pdf)]
 - Recurrent Diffusion for Large-Scale Parameter Generation [[PDF](https://openreview.net/attachment?id=CXIiV1iU3G&name=pdf)]
 - LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation [[PDF](https://openreview.net/attachment?id=kam84eEmub&name=pdf)]
-- Prompt-Agnostic Erasure for Diffusion Models Using Task Vectors [[PDF](https://openreview.net/attachment?id=2wDXNF0Gv4&name=pdf)]
 - UniVIEDM: A Diffusion Model to Unify Visual Information Extraction Subtasks [[PDF](https://openreview.net/attachment?id=V6AI97jJ3J&name=pdf)]
 - Scaling  With Text-Guided Diffusion Models [[PDF](https://openreview.net/attachment?id=HafxTJjo6a&name=pdf)]
 - IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models [[PDF](https://openreview.net/attachment?id=f4mQ2SU5tp&name=pdf)]
@@ -570,7 +587,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Cometh: A continuous-time discrete-state graph diffusion model [[PDF](https://openreview.net/attachment?id=AY89HCxunl&name=pdf)]
 - DSPO: Direct Score Preference Optimization for Diffusion Model Alignment [[PDF](https://openreview.net/attachment?id=xyfb9HHvMe&name=pdf)]
 - GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation [[PDF](https://openreview.net/attachment?id=qPzYF2EpXb&name=pdf)]
-- Sample-specific Noise Injection for Diffusion-based Adversarial Purification [[PDF](https://openreview.net/attachment?id=KzokzKV4JK&name=pdf)]
 - Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning [[PDF](https://openreview.net/attachment?id=NRYgUzSPZz&name=pdf)]
 - Boosting Offline Multi-Objective Reinforcement Learning via Preference Conditioned Diffusion Models [[PDF](https://openreview.net/attachment?id=XCUTFbC3Rh&name=pdf)]
 - Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare s with LLM Guidance [[PDF](https://openreview.net/attachment?id=BgxsmpVoOX&name=pdf)]
@@ -591,7 +607,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - d-Linear Generation Error Bound for Distributed Diffusion Models [[PDF](https://openreview.net/attachment?id=f3hIphjjY8&name=pdf)]
 - PCDM: PERCEPTUAL CONSISTENCY IN DIFFUSION MODELS FOR NO-REFERENCE IMAGE QUALITY ASSESSMENT [[PDF](https://openreview.net/attachment?id=sHbE7PplDG&name=pdf)]
 - SparseDM: Toward Sparse Efficient Diffusion Models [[PDF](https://openreview.net/attachment?id=3kADTLbKmm&name=pdf)]
-- EraseDiff: Erasing Data Influence in Diffusion Models [[PDF](https://openreview.net/attachment?id=4CR5Uc9EYf&name=pdf)]
 - Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner [[PDF](https://openreview.net/attachment?id=fcJKzwlwcs&name=pdf)]
 - G2D2: Gradient-guided Discrete Diffusion for image inverse problem solving [[PDF](https://openreview.net/attachment?id=mZfBRjMWq0&name=pdf)]
 - Adaptive Caching for Faster Video Generation with Diffusion Transformers [[PDF](https://openreview.net/attachment?id=DyyLUUVXJ5&name=pdf)]
@@ -613,7 +628,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - GDrag:Towards General-Purpose Interactive Editing with Anti-ambiguity Point Diffusion [[PDF](https://openreview.net/attachment?id=8G3FyfHIko&name=pdf)]
 - Feature-guided score diffusion for sampling conditional densities [[PDF](https://openreview.net/attachment?id=kwY3eL3QVh&name=pdf)]
 - Diff-PIC: Revolutionizing Particle-In-Cell Nuclear Fusion Simulation with Diffusion Models [[PDF](https://openreview.net/attachment?id=c9z65sDx6M&name=pdf)]
-- Rethinking Adversarial Attacks as Protection Against Diffusion-based Mimicry [[PDF](https://openreview.net/attachment?id=tiJzOop4u6&name=pdf)]
 - Towards Generalization under Topological Shifts: A Diffusion PDE Perspective [[PDF](https://openreview.net/attachment?id=mFiGAbvmYS&name=pdf)]
 - LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion [[PDF](https://openreview.net/attachment?id=72OSO38a2z&name=pdf)]
 - Hybrid Regularization Improves Diffusion-based Inverse Problem Solving [[PDF](https://openreview.net/attachment?id=d7pr2doXn3&name=pdf)]
@@ -640,7 +654,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Ensembling Diffusion Models via Adaptive Feature Aggregation [[PDF](https://openreview.net/attachment?id=e32cI4r8Eo&name=pdf)]
 - Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation [[PDF](https://openreview.net/attachment?id=gg6dPtdC1C&name=pdf)]
 - Write More at Once: Stylized Chinese Handwriting Generation via Two-stage Diffusion [[PDF](https://openreview.net/attachment?id=VdDtRu7RTf&name=pdf)]
-- Erasing  Combination from Text-to-Image Diffusion Model [[PDF](https://openreview.net/attachment?id=OBjF5I4PWg&name=pdf)]
 - HERO: Harnessing Temporal Modeling for Diffusion-Based Video Outpainting [[PDF](https://openreview.net/attachment?id=I0HfqpSH8f&name=pdf)]
 - ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler [[PDF](https://openreview.net/attachment?id=nNYA7tcJSE&name=pdf)]
 - Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization [[PDF](https://openreview.net/attachment?id=fXnE4gB64o&name=pdf)]
@@ -672,7 +685,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Energy-Based Diffusion Language Models for Text Generation [[PDF](https://openreview.net/attachment?id=sL2F9YCMXf&name=pdf)]
 - VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference [[PDF](https://openreview.net/attachment?id=dAavOuxZvo&name=pdf)]
 - Latent Diffusion Planning for Imitation Learning [[PDF](https://openreview.net/attachment?id=k1qVBh5fnb&name=pdf)]
-- Efficient Adversarial Detection and Purification with Diffusion Models [[PDF](https://openreview.net/attachment?id=AHqXvTK4KG&name=pdf)]
 - Uncertainty-Regularized Diffusional Subgoals for Hierarchical Reinforcement Learning [[PDF](https://openreview.net/attachment?id=JNsac6zbg2&name=pdf)]
 - Losing dimensions: Geometric memorization in generative diffusion [[PDF](https://openreview.net/attachment?id=TmAmuMXkFc&name=pdf)]
 - Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing [[PDF](https://openreview.net/attachment?id=UF6CEzAVVr&name=pdf)]
@@ -706,7 +718,6 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Stable Signature is Unstable: Removing Image Watermark from Diffusion Models [[PDF](https://openreview.net/attachment?id=zqo2eKjSWH&name=pdf)]
 - Continuous Diffusion for Mixed-Type Tabular Data [[PDF](https://openreview.net/attachment?id=QPtoBPn4lZ&name=pdf)]
 - APCtrl: Adding Conditional Control to Diffusion Models by Alternative Projection [[PDF](https://openreview.net/attachment?id=yPxhj1FKhG&name=pdf)]
-- Adversarial-Guided Diffusion for Robust and High-Fidelity Multimodal LLM Attacks [[PDF](https://openreview.net/attachment?id=UXNprzZmvZ&name=pdf)]
 - Preserving the Unique Heritage of Chinese Ancient Architecture in Diffusion Models with Text and Image Integration [[PDF](https://openreview.net/attachment?id=RsmIgTLt9e&name=pdf)]
 - Bias Mitigation in Graph Diffusion Models [[PDF](https://openreview.net/attachment?id=CSj72Rr2PB&name=pdf)]
 - Unveiling Concept Attribution in Diffusion Models [[PDF](https://openreview.net/attachment?id=kdriw2a8sl&name=pdf)]
