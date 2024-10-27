@@ -1,7 +1,7 @@
 # awesome-diffusion-iclr-2025
 List of diffusion related active submissions on OpenReview for ICLR 2025.
 
-- Nested Diffusion Models using Hierarchical Latent Priors [PDF(https://openreview.net/attachment?id=gGQ71wIPpX&name=pdf)]
+- Nested Diffusion Models using Hierarchical Latent Priors [!PDF(https://openreview.net/attachment?id=gGQ71wIPpX&name=pdf)]
 - MuLan: Multimodal-LLM Agent for Progressive and Interactive Multi-Object Diffusion [PDF(https://openreview.net/attachment?id=Yd5MHVIKLk&name=pdf)]
 - Nested Diffusion Models using Hierarchical Latent Priors [PDF(https://openreview.net/attachment?id=gGQ71wIPpX&name=pdf)]
 - GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework [PDF(https://openreview.net/attachment?id=ErpRu7qMq1&name=pdf)]
