@@ -837,4 +837,3 @@ List of diffusion related active submissions on OpenReview for ICLR 2025.
 - Efficient Diffusion Models for Symmetric Manifolds [[PDF](https://openreview.net/attachment?id=GLKig15TWJ&name=pdf)]
 - Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models [[PDF](https://openreview.net/attachment?id=ZeaTvXw080&name=pdf)]
 - Unveiling the Secret of AdaLN-Zero in Diffusion Transformer [[PDF](https://openreview.net/attachment?id=E4roJSM9RM&name=pdf)]
-- Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models [[PDF](https://openreview.net/attachment?id=0Lpz2o6NDE&name=pdf)]
